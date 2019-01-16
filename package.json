@@ -1,0 +1,27 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather App writen by Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "run weatherapp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogueDEVPYTHON/Weather_App.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "RogueDEVPYTHON",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RogueDEVPYTHON/Weather_App/issues"
+  },
+  "homepage": "https://github.com/RogueDEVPYTHON/Weather_App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
